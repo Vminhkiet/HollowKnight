@@ -1,6 +1,6 @@
 # 🎮 Hollow Knight Online - 2D Metroidvania Platformer
 
-- 🎯 **Được giảng viên đánh giá 10/10** vì xử lý **tình huống vật lý đặc biệt ngay trên lớp**:  
+- 🎯 **Được giảng viên đánh giá 10 điểm** vì xử lý **tình huống vật lý đặc biệt ngay trên lớp**:  
   Khi nhân vật nhảy từ dưới lên vào platform, làm quái vật **Tiktik** rơi xuống đúng như behavior trong game gốc *Hollow Knight*.
 - Dự án này là một game 2D thuộc thể loại **Metroidvania Platformer** lấy cảm hứng từ *Hollow Knight*, được phát triển trong khuôn khổ môn học **Công nghệ .NET** tại Trường Đại học Công nghệ Thông tin. Game nổi bật với tính năng **chơi trực tuyến nhiều người chơi**. Báo cáo chi tiết ở link này: https://docs.google.com/document/d/1w4wfIoQd9pejM34C5aM14S3KNNMVvALQmUutFJNOFow/edit?tab=t.0
 
