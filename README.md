@@ -1,6 +1,6 @@
 # 🎮 Hollow Knight Online - 2D Metroidvania Platformer (10 ĐIỂM VỀ MẶT GIAO DIỆN VÀ CORE ĐƯỢC ĐÁNH GIÁ BỞI ThS. )
 
-Dự án này là một game 2D thuộc thể loại **Metroidvania Platformer** lấy cảm hứng từ *Hollow Knight*, được phát triển trong khuôn khổ môn học **Công nghệ .NET** tại Trường Đại học Công nghệ Thông tin. Game nổi bật với tính năng **chơi trực tuyến nhiều người chơi**.
+Dự án này là một game 2D thuộc thể loại **Metroidvania Platformer** lấy cảm hứng từ *Hollow Knight*, được phát triển trong khuôn khổ môn học **Công nghệ .NET** tại Trường Đại học Công nghệ Thông tin. Game nổi bật với tính năng **chơi trực tuyến nhiều người chơi**. Báo cáo chi tiết ở link này: https://docs.google.com/document/d/1w4wfIoQd9pejM34C5aM14S3KNNMVvALQmUutFJNOFow/edit?tab=t.0
 
 ## 1. 🧭 Tổng quan về Dự án
 
